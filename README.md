@@ -20,6 +20,10 @@ yarn add @rootsher/material-table
 
 TBA
 
+## screenshots
+
+<img src="https://raw.githubusercontent.com/rootsher/material-table/master/docs/assets/img/screenshot.png">
+
 ## full working example
 
 ```ts
