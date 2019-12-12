@@ -1,4 +1,10 @@
-# @rootsher/material-table
+# [@rootsher/material-table](https://github.com/rootsher/material-table)
+
+[![npm version](https://img.shields.io/npm/v/@rootsher/material-table.svg)](https://www.npmjs.com/package/@rootsher/material-table)
+[![npm downloads](https://img.shields.io/npm/dm/@rootsher/material-table.svg)](https://www.npmjs.com/package/@rootsher/material-table)
+[![GitHub issues](https://img.shields.io/github/issues/rootsher/material-table.svg)](https://github.com/rootsher/material-table/issues)
+[![GitHub PRs](https://img.shields.io/github/issues-pr/rootsher/material-table.svg)](https://github.com/rootsher/material-table/pulls)
+[![MIT license](https://img.shields.io/npm/l/@rootsher/material-table.svg)](https://opensource.org/licenses/MIT)
 
 ## motivation
 

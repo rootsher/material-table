@@ -8,7 +8,7 @@ import MuiTableBody from "@material-ui/core/TableBody";
 import MuiTableRow from "@material-ui/core/TableRow";
 import MuiTableCell from "@material-ui/core/TableCell";
 
-import interval from "components/common/hooks/useInterval";
+import interval from "utils/hooks/useInterval";
 
 import { TableCell } from "./TableCell";
 
