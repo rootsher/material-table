@@ -1,9 +1,17 @@
 {
   "name": "@rootsher/material-table",
-  "version": "0.1.1",
+  "description": "Simple React material-ui table with search, sorting and pagination",
+  "keywords": ["material-ui table", "react table", "table sorting", "table pagination", "table search"],
+  "version": "0.1.2",
   "main": "src/Table.tsx",
-  "repository": "https://github.com/rootsher/material-table.git",
-  "author": "Konrad Kowalski <rootsher@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rootsher/material-table.git"
+  },
+  "author": {
+    "name": "Konrad Kowalski",
+    "email": "rootsher@gmail.com"
+  },
   "license": "MIT",
   "dependencies": {
     "@material-ui/core": "^4.7.2",
